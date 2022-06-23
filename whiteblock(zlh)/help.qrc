@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>first.qml</file>
+        <file>help.qml</file>
+    </qresource>
+</RCC>
