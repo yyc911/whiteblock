@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Block.qml</file>
+        <file>Failpage.qml</file>
+        <file>Gamepage.qml</file>
+        <file>main.qml</file>
+        <file>Mainpage.qml</file>
+        <file>Gamepage1.qml</file>
+        <file>Gamepage2.qml</file>
+        <file>Firstpage.qml</file>
+        <file>Secondpage.qml</file>
+        <file>Thirdpage.qml</file>
+        <file>Themedialog.qml</file>
+        <file>Helppage.qml</file>
+    </qresource>
+</RCC>
